@@ -1,0 +1,31 @@
+_repo: Die-Kegelschnitte-Gottes_63927
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Eckstein-Diener, Bertha
+    aliases:
+    - Diner, Helen
+    - Galahad, Sir
+    birthdate: 1874
+    deathdate: 1948
+    gutenberg_agent_id: '52667'
+    url: http://www.gutenberg.org/2009/agents/52667
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Bertha_Eckstein-Diener
+    - https://en.wikipedia.org/wiki/Bertha_Eckstein-Diener
+description: ''
+gutenberg_issued: '2020-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63927'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Eckstein-Diener, Bertha, 1874-1948. Horus-Romane, 1.
+subjects:
+- !lcc 'PT'
+- !lcsh 'Austrian fiction -- 20th century'
+- GITenberg
+title: Die Kegelschnitte Gottes
+url: http://www.gutenberg.org/ebooks/63927
