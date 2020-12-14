@@ -1,5 +1,8 @@
 _repo: Die-Kegelschnitte-Gottes_63927
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63927-h/images/cover.jpg
 creator:
   author:
     agent_name: Eckstein-Diener, Bertha
@@ -14,6 +17,8 @@ creator:
     - https://de.wikipedia.org/wiki/Bertha_Eckstein-Diener
     - https://en.wikipedia.org/wiki/Bertha_Eckstein-Diener
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63927#Die-Kegelschnitte-Gottes
 gutenberg_issued: '2020-12-01'
 gutenberg_type: Text
 identifiers:
